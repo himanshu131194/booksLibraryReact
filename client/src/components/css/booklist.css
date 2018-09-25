@@ -1,0 +1,36 @@
+.modal-dialog{
+   max-width: 600px;
+}
+.margin-left-right-11px{
+   margin: 0px 11px;
+}
+.account-contact-form{
+  width: 80%;
+  margin: auto;
+}
+.account-contact-form form div{
+  width: 100%;
+  text-align: center;
+}
+.account-contact-form input{
+  display: block;
+  height: 40px;
+  width: inherit;
+  background-color: #ffffff;
+  border: 1px solid #ededed;
+  border-radius: 5px;
+  font-size: 12px;
+  padding-left: 20px;
+  color: #7e7e7e;
+  margin-bottom: 20px;
+}
+.account-contact-form input[type='submit']{
+  display: block;
+  color: #ffffff;
+  width: 30%;
+  border-radius: 5px;
+  height: 35px;
+  border: none;
+  padding: 0 20px;
+  background-color: #00aff0;
+}
